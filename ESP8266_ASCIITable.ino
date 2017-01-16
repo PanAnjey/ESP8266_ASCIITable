@@ -19,8 +19,8 @@
  <http://www.zambetti.com> 
  
  */
-#define PORTOUT Serial
-#define RE_PIN A6
+#define PORTOUT Serial1
+#define RE_PIN D6
 //#define DE_PIN A7
 void setup() { 
  //Initialize serial and wait for port to open:
